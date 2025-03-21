@@ -2,6 +2,4 @@
 
 3d printed parts 
 
-![WhatsApp Image 2025-03-12 at 11 34 37 AM](https://github.com/user-attachments/assets/ebe7301b-908c-49e5-bdb2-914f73702ca7)
-
-
+![1111](https://github.com/user-attachments/assets/90b561d2-8010-4e3b-89b3-9ae285262437)
