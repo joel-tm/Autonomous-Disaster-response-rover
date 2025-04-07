@@ -1,0 +1,1 @@
+miniature of main rover 
