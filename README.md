@@ -8,7 +8,7 @@
 CAD MODEL
 ![project rough](https://github.com/user-attachments/assets/1b9fc7be-2549-45dc-a9e0-cb67afa88889)
 
-ACTUAL PICTURES
+ACTUAL IMPLEMENTATION
 front view
 
 
